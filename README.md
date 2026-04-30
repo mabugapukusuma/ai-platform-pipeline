@@ -34,7 +34,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 Live Demo
-👉 (Add your deployed Streamlit URL here)
+https://ai-platform-pipeline-jkp3fbcigwwmhx9ainx62g.streamlit.app/
 
 🧪 Example Inputs
 Build an ecommerce app with cart and checkout
